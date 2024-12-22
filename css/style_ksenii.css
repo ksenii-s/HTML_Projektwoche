@@ -1,0 +1,131 @@
+
+body {
+     .pt-sans-regular {
+        font-family: "PT Sans", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .pt-sans-bold {
+        font-family: "PT Sans", serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+      
+}
+
+a {
+    text-decoration: none;
+}
+
+.f_size16{
+    font-size: 16px;
+}
+.f_size15 {
+    font-size: 15px;
+}
+.f_size14 {
+    font-size: 14px;
+}
+.bold{
+    font-weight: 700;
+}
+.buttom a{
+    color: #fff;
+}
+
+.promo .buttom{
+    display: block;
+    background-color: #FF3465;
+    border-width: 0px;
+    margin: 0 auto;
+    margin-top: 21px;
+    width: 209px;
+    height: 55px;
+    border-radius: 10px;
+}
+
+.hauptseite_body{
+    background-image: url(../img/Hauptseite.jpg);
+    color: #fff;
+}
+
+.hauptseite_body .header .container{
+    margin-top: 44px;
+}
+
+.header img {
+    margin-right: 5px;
+}
+
+.header a {
+    color: #fff;
+}
+
+.promo h1{
+    font-size: 50px;
+    margin-top: 165px;
+    text-align: center;
+}
+.promo p {
+    width: 462px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header_r {
+    background-color: #273456;
+    height: 120px;
+    color: #fff;
+}
+
+.nav_html{
+    margin-top: 44px;
+}
+
+.richtungen{
+    color: #273456;
+    text-align: center;
+    margin-top: 87px;
+    font-size: 38px;
+}
+
+.richtungen img {
+    width: 100%;
+}
+
+.shadow{
+    box-shadow: 0px 17px 50px 0px #20284524;
+    border-radius: 10px;
+    margin: 61px 15px 51px 15px;
+}
+
+.richtungsksrten{
+    display: flex;
+    margin: 0;
+}
+
+.card-body{
+    margin: 23px 33px 40px 33px;
+}
+.card-title {
+    font-size: 20px;
+}
+.card-text {
+    font-size: 14pxs;
+}
+
+.btn-info{
+    background: #297FFF;
+    display: inline-block;
+    width: 64px;
+    height: 23px;
+    font-size: 13px;
+    border-radius: 10px;
+    border-width: 0px;
+    color: #fff;
+}
+
+.btn-info-2 {
+    width: 90px;
+}
